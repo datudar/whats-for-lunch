@@ -1,5 +1,5 @@
 # whats-for-lunch
 
-See it live here:
+<a href="https://datudar.shinyapps.io/whats-for-lunch/" target="_blank">https://datudar.shinyapps.io/whats-for-lunch/</a>
 
-https://datudar.shinyapps.io/whats-for-lunch/
+
