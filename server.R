@@ -24,9 +24,7 @@ function(input, output) {
                                       direction = "top",
                                       style = list("box-shadow" = "5px 5px rgba(0,0,0,0.25)",
                                                    "border-color" = "rgba(0,0,0,0.25)")))
-      
-      
-      
+
     })
     
   })
